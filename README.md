@@ -7,4 +7,4 @@ explain which concepts are being demonstrated by the program.
 Each file is just the program script, which can be copied and pasted into IDLE or another Python processor to
 be executed, so the results of running the program can be viewed.
 
-
+tools.py contains several important functions and codeblocks that can be imported for use in other programs.
