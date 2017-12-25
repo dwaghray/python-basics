@@ -95,9 +95,8 @@ def mean(numbers):
 # list manipulation functions
 #------------------------------
 
-
-# put the swap function here!
-
+def swap(a_list, x, y):
+    a_list[x], a_list[y] = a_list[y], a_list[x]
 
 
 
